@@ -58,4 +58,5 @@ streamlit run app.py
 - **Hugging Face:** For text summarization using the BART model.
 
 ## Example
+![WhatsApp Image 2025-01-03 at 01 29 34_996148a7](https://github.com/user-attachments/assets/a6c49284-acb6-4c58-b9fd-19f404cbe195)
 
