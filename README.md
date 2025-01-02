@@ -59,7 +59,11 @@ streamlit run app.py
 
 ## Example
 ![WhatsApp Image 2025-01-03 at 01 29 34_996148a7](https://github.com/user-attachments/assets/a6c49284-acb6-4c58-b9fd-19f404cbe195)
+
+
 ![WhatsApp Image 2025-01-03 at 01 30 11_38f918cd](https://github.com/user-attachments/assets/c50e82f1-6da5-4e34-80ea-921681bb2663)
+
+
 ![WhatsApp Image 2025-01-03 at 01 31 37_cabd4089](https://github.com/user-attachments/assets/883cfe46-17f5-429e-88e6-6db637189028)
 
 
