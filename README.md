@@ -15,7 +15,7 @@ This is a Streamlit-based web application designed to analyze medical reports in
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-repository/medical-report-analyzer.git
+git clone https://github.com/atharvad38/Medical_Report_Analyzer
 ```
 
 2. Install the required dependencies:
